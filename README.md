@@ -29,9 +29,9 @@ A simple LED circuit constructed on a breadboard using an LED, resistor, connect
 
 7\.    Check that the LED glows properly.
 
-![][image1]
+![](circuit.jpeg)
 
-![][image2]
+![](result.png)
 
 # **Notes**
 
